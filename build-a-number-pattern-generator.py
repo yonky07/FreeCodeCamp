@@ -1,4 +1,3 @@
-** start of main.py **
 
 def number_pattern(n):
     list_kosong = []
@@ -10,6 +9,3 @@ def number_pattern(n):
         list_kosong.append(str(i))
     return " ".join(list_kosong)
 print(number_pattern(4))
-
-** end of main.py **
-
